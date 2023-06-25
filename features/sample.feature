@@ -1,3 +1,4 @@
+@sample
 Feature: Sample Feature
   Scenario: Sample Scenario
     Given I open the homepage
