@@ -1,4 +1,4 @@
-@dashboard
+
 Feature: Sample Feature
 
   Scenario: gouri Scenario
