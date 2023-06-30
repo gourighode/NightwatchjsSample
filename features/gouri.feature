@@ -1,3 +1,4 @@
+@gouri
 Feature: Sample Feature
   Scenario: gouri Scenario
     Given I open the homepage
